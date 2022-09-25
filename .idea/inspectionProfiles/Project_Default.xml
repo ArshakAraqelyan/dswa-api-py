@@ -1,0 +1,28 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="message.tags" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="urllib2" />
+          <option value="first_project.first_project.urls.core" />
+          <option value="djangoproject.djangoproject.urls.stockmgmgt" />
+          <option value="djangoproject.djangoproject.urls.views" />
+          <option value="drfsite.women.admin.Women" />
+          <option value="webscraptable.webtables_bs4.urls.webtables_bs4" />
+          <option value="threading.Thread" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
